@@ -1,0 +1,15 @@
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.Tests\bin\Debug\netcoreapp3.1\DDDInPractice.Tests.deps.json
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.Tests\bin\Debug\netcoreapp3.1\DDDInPractice.Tests.dll
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.Tests\obj\Debug\netcoreapp3.1\DDDInPractice.Tests.csprojAssemblyReference.cache
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.Tests\obj\Debug\netcoreapp3.1\DDDInPractice.Tests.AssemblyInfoInputs.cache
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.Tests\obj\Debug\netcoreapp3.1\DDDInPractice.Tests.AssemblyInfo.cs
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.Tests\bin\Debug\netcoreapp3.1\DDDInPractice.Tests.runtimeconfig.json
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.Tests\bin\Debug\netcoreapp3.1\DDDInPractice.Tests.runtimeconfig.dev.json
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.Tests\obj\Debug\netcoreapp3.1\DDDInPractice.Tests.genruntimeconfig.cache
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.Tests\bin\Debug\netcoreapp3.1\DDDInPractice.Tests.pdb
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.Tests\bin\Debug\netcoreapp3.1\DDDInPractice.Logic.dll
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.Tests\bin\Debug\netcoreapp3.1\DDDInPractice.Logic.pdb
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.Tests\obj\Debug\netcoreapp3.1\DDDInPractice.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.Tests\obj\Debug\netcoreapp3.1\DDDInPractice.Tests.csproj.CopyComplete
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.Tests\obj\Debug\netcoreapp3.1\DDDInPractice.Tests.dll
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.Tests\obj\Debug\netcoreapp3.1\DDDInPractice.Tests.pdb

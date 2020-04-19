@@ -1,0 +1,6 @@
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.UI\bin\Debug\netcoreapp3.1\DDDInPractice.UI.deps.json
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.UI\bin\Debug\netcoreapp3.1\DDDInPractice.UI.dll
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.UI\obj\Debug\netcoreapp3.1\DDDInPractice.UI.csprojAssemblyReference.cache
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.UI\obj\Debug\netcoreapp3.1\DDDInPractice.UI.AssemblyInfoInputs.cache
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.UI\obj\Debug\netcoreapp3.1\DDDInPractice.UI.AssemblyInfo.cs
+C:\Users\bjelic\source\repos\DDDInPractice\DDDInPractice.UI\bin\Debug\netcoreapp3.1\DDDInPractice.Logic.dll
